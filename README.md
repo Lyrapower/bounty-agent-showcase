@@ -50,6 +50,14 @@ A task is complete only when it produces a structured record. A short text answe
 - [docs/GATE.md](docs/GATE.md): every gate outcome and its reason code
 - [docs/RECORDS.md](docs/RECORDS.md): target, intent and submission record shapes
 
+## See it
+
+Results before theory. Time-to-demo is 90 seconds: if it runs, you can see it. Open an issue to ask for a live walkthrough.
+
+## Not in this repo
+
+The search, triage and work loop. Happy to go deeper on tuning details. A more aggressive causal-patch approach exists and is not public yet.
+
 ## Rights
 
 See [NOTICE](NOTICE). Documentation shared for review. The agent source is not included and not licensed.
