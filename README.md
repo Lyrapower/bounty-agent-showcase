@@ -1,3 +1,5 @@
+![banner](assets/banner.png)
+
 # Bounty Agent — Showcase
 
 An autonomous agent loop that finds real paid open-source work (bounties, grants, paid evaluations), does it, and submits only where the project allows it in writing. This repository is a **showcase**: design, the submission gate and output formats. The agent source is private.
